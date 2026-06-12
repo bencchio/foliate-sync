@@ -1,0 +1,10 @@
+# foliate-sync configuration
+
+# Root folder with books (supports ~)
+books_dir = "~/Books"
+
+# Formats to import (remove any you don't want)
+extensions = ["epub", "pdf", "mobi", "azw", "azw3", "cbz", "cbr"]
+
+# Cover width in pixels (height is proportional)
+cover_width = 256
